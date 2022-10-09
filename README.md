@@ -8,6 +8,7 @@ Celem projektu było opracowanie i implementacja algorytmu identyfikującego mie
   1. Wybór obrazu ze skazą - Obraz przedstawia drewnianą powierzchnię, na drewnie widać słoje oraz sęki. Sęki traktowane są jako skaza.
 
 ![image](https://user-images.githubusercontent.com/105323115/194776589-3b120153-6da4-409e-9698-14da7eae2b59.png)
+  
   2. Zmiana kontrastu obrazu - Zmiana kontrastu obrazu jest konieczna do wyznaczenia intensywności poszczególnych pikseli. Później z tych intensywności zostanie wyrysowany histogram.
 
 ![image](https://user-images.githubusercontent.com/105323115/194776661-4bf8568c-686e-4286-b499-9fa841fde0e6.png)
