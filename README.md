@@ -1,0 +1,1 @@
+# okreslanie-lokalizacji-i-wielkosci-wadliwej-powierzchni
